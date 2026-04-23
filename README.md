@@ -111,7 +111,7 @@ src/main/java/
 
 ### Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/SmartCampusAPI.git
+git clone https://github.com/VihangaRodrigo-IIT/SmartCampusAPI.git
 ```
 
 ### Step 2 — Open in NetBeans
@@ -442,5 +442,3 @@ logging, different developers writing different methods might log different
 information in different formats, making the logs harder to analyse and monitor.
 
 ---
-
-*Submitted by: [Your Name] | Student ID: [Your ID] | Module: 5COSC022W*
